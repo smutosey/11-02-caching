@@ -28,7 +28,7 @@
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 > #### Ответ:
-> Написал [Vagrantfile](https://github.com/smutosey/11-02-caching/blob/main/Vagrantfile) для развертывания ВМ и настройки Memcached и Redis актуальных версий.  
+> Написал [Vagrantfile](https://github.com/smutosey/11-02-caching/blob/main/Vagrantfile) для развертывания ВМ и [config.sh](https://github.com/smutosey/11-02-caching/blob/main/config.sh) для настройки Memcached и Redis актуальных версий.  
 > Статус сервиса Memcached:  
 > ![img](https://github.com/smutosey/11-02-caching/blob/main/img/2-01.png)
 > 
