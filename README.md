@@ -56,12 +56,12 @@
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 > #### Ответ:
-> Статус сервиса и проверка PING:
-> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-01.png)  
-> Запись в базу:
-> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-02.png)  
-> Чтение ключей в базе:
-> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-03.png)  
+> Статус сервиса и проверка PING:  
+> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-01.png)    
+> Запись в базу:  
+> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-02.png)   
+> Чтение ключей в базе:  
+> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/4-03.png)    
 >
 
 ---
@@ -73,8 +73,8 @@
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 
 > #### Ответ:
-> Можно воспользоваться командой INCRBY:
-> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/5-01.png)  
+> Можно воспользоваться командой INCRBY:  
+> ![img](https://github.com/smutosey/11-02-caching/blob/main/img/5-01.png)    
 > 
 
 
